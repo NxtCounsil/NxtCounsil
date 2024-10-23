@@ -1,84 +1,80 @@
-<!-- Title Section with Glassmorphism -->
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=0:84cdee,100:6c72cb&height=200&section=header&text=Hey,%20I'm%20Your%20Name&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=58&descAlign=50)</div>
+
 <div align="center">
-  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 10px; padding: 20px; margin: 20px 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I%E2%80%99m+%5BYour+Name%5D+%F0%9F%91%8B;Senior+Software+Engineer;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
-  </div>
+  <img src="https://github-stats-alpha.vercel.app/api?username=YOUR_USERNAME&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </div>
 
-<!-- Profile Views Counter with Glass Effect -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0891b2&labelColor=000000" alt="Profile Views"/>
-</div>
+<br>
 
-<!-- About Me Section with Glass Card -->
-<div align="center">
-  <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> 
-    About Me
-  </h2>
-</div>
+## 🎯 Current Focus
 
-<div align="center">
-
-```javascript
-const aboutMe = {
-    currentlyWorking: "Building Something Amazing 🚀",
-    learning: ["Web3 🌐", "System Design 📐", "Cloud Architecture ☁️"],
-    askMeAbout: ["Web Dev 💻", "Tech 🔧", "Coffee ☕"],
-    availability: "Open to exciting opportunities! ✨"
-};
+```typescript
+class About extends Me {
+  const getCurrentWorkspace = {
+    workspace: {
+       company: '🏢 Open to Work',
+       position: '👨‍💻 Senior Software Engineer'
+    },
+    challenges: [
+      '🚀 Building scalable applications',
+      '📱 Crafting beautiful UIs',
+      '🎯 Solving complex problems'
+    ],
+    funFact: '☕ Powered by coffee and curiosity'
+  }
+}
 ```
 
-</div>
-
-<!-- Tech Stack with Glass Effect -->
+## 💻 Tech Arsenal
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
-    Tech Stack
-  </h2>
-
-  <!-- First Row -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres&theme=dark" />
   
-  <!-- Second Row -->
-  <img src="https://skillicons.dev/icons?i=tailwind,firebase,aws,docker,kubernetes,redis,graphql,prisma&theme=dark" />
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  
 </div>
 
-<!-- GitHub Stats with Glass Effect -->
+## 📊 GitHub Stats
+
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28">
-    GitHub Activity
-  </h2>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=37BCF6&icon_color=37BCF6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&stroke=37BCF6&ring=37BCF6&fire=37BCF6&currStreakNum=37BCF6&sideNums=37BCF6&dates=37BCF6&currStreakLabel=37BCF6&background=0D1117&sideLabels=37BCF6" />
 </div>
 
-<!-- Contribution Graph -->
+## 🌟 Weekly Coding
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Contribution%20Graph&bg_color=0D1117&color=36BCF7&line=36BCF7&point=36BCF7&area_color=36BCF7&area=true&hide_border=true&hide_title=true" width="100%" alt="activity graph">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&hide_border=true&theme=react&bg_color=0D1117&border_color=0D1117&custom_title=This%20Week%20I%20Spent%20My%20Time%20On" />
 </div>
 
-<!-- Connect Section with Glass Effect -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">
-    Let's Connect
-  </h2>
+## 🤝 Let's Connect
 
-  <!-- Social Links -->
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=36BCF7"/>
-  </a>
+<div align="center">
   <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=36BCF7"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="mailto:your.email@domain.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://YOUR_USERNAME.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=36BCF7"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </div>
 
-<!-- Footer Quote -->
 <div align="center">
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+👋;Let's+build+something+amazing+together!" alt="Footer Quote" />
+  <h3>🎵 Vibing to</h3>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:84cdee,100:6c72cb&height=120&section=footer)
