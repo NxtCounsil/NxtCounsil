@@ -1,135 +1,67 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+a+Full-Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Your+Name!;I'm+a+Software+Engineer...;And+I'm+a+Lifelong+Learner!;Welcome+to+my+GitHub+😊" alt="Typing SVG">
 </div>
 
 <p align="center">
-  <a href="https://your-website.com">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
-<br />
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-<!-- About Section -->
-# About Me
+## 💫 About Me
 
-<p>
-  📌 Full-stack developer passionate about creating innovative solutions<br/>
-  📚 Lifelong learner, always exploring new technologies<br/>
-  🎯 Goal-oriented professional with a keen eye for detail<br/>
-  🚀 Committed to writing clean, efficient, and maintainable code
+- 🔭 I'm currently working on **[Project Name](Project Link)**
+- 🌱 I'm currently learning **Cutting-edge Tech**
+- 👯 I'm looking to collaborate on **Innovative Projects**
+- 💬 Ask me about **Software Architecture, Full-Stack Development**
+- 📫 How to reach me: **your.email@example.com**
+- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
+
+## 🚀 Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="expressjs" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
 </p>
 
-<br />
-
-## 🔥 Streak Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=algolia" alt="yourusername" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
 </p>
 
-<br />
+## 🏆 GitHub Trophies
 
-## 🛠️ My Skills
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
-### 👉 Programming languages
+## 🔝 Most Used Languages
 
-<p align="left"> 
-  &emsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-</p>
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
 
-### 👉 Frontend Development
+## 📈 Contribution Graph
 
-<p align="left"> 
-  &emsp; 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
-  </a>
-  &emsp;
-  <a href="https://nextjs.org/" target="_blank"> 
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%23000000.svg?style=plastic&logo=next.js&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white">
-  </a>
-</p>
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" />
 
-### 👉 Backend Development
+## 🎵 Vibing to
 
-<p align="left"> 
-  &emsp; 
-  <a href="https://nodejs.org" target="_blank"> 
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=plastic&logo=node.js&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://expressjs.com" target="_blank"> 
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=plastic">
-  </a>
-  &emsp;
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white">
-  </a>
-</p>
+[![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
 
-<br/>
-
-## 📊 Github Stats
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Your Github Stats" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yourusername" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/yourusername"><img alt="Your Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yourusername&custom_title=Your%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
-
-<br/>
-
-## 🏆 Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yourusername&layout=compact&theme=algolia" alt="yourusername" /></a> </p>
-
-<br/>
-
-## 🐍 Watch my contribution graph get eaten by the snake
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Thanks+for+visiting!;Come+back+soon!" alt="Typing SVG">
+</div>
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
 </p>
-
-<hr/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+happy+to+connect+:)">
-</h3>
-
-<br/>
