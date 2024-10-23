@@ -1,45 +1,49 @@
-# Hey there! 👋 I'm [Your Name]
+# About Me
 
-> Senior Software Engineer passionate about building innovative solutions
+Hey, my name is [Your Name]! I'm currently a senior at [Your School/Company]
 
-## About Me
-Hey! I'm a software engineer who loves creating impactful tech solutions. Currently building awesome things at [Your Company].
+## 🚀 Current
+- 🛠️ Currently working on [Your Project]
+- 🏆 5x hackathon winner, including:
+  - [Major Hackathon] finalist
+  - [Notable Competition] scholar
+- 👋 Ambassador for [Organization/Community]
 
-🚀 Currently working on [Your Project]  
-🌱 Learning [Technology/Skill]  
-💡 Open for collaboration on interesting projects  
-🎯 2024 Goals: Contribute more to open source
+I post about [your interests] on [Twitter/X](https://twitter.com/YOUR_USERNAME). Feel free to check it out, don't hesitate to reach out!
 
-## 🛠 Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+## My Website 📝
+[your-website.com](https://your-website.com)
 
-## 🏆 Achievements
-- 🥇 [Your Major Achievement]
-- 🎯 [Another Achievement]
-- ⭐ [One More Achievement]
-- 🌟 [Notable Project/Recognition]
+## Skills
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<div style="display: flex; gap: 8px;">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+
 </div>
 
-## 🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+## 🏆 Hackathons + awards
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_WEBSITE)
+▶️ 🏆 [Major Competition] / [Event] Scholar
 
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet" alt="Profile Views" />
-</div>
+▶️ 🏆 [Hackathon Name] - Finalist & [Special Award]
+
+▶️ 🏆 [Another Hackathon] - Best Use of [Technology] & [Prize]
+
+▶️ 🏆 [Competition] - First Place Grand Prize winner
+
+▶️ 🏆 [Event/Hackathon] - Selected Winner
+
+## Socials
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
