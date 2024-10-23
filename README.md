@@ -1,69 +1,39 @@
+# 👋 Hi there, I'm [Your Name]
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=100&lines=Hey%2C+I'm+Your+Name!;Full-Stack+Developer;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
+## 🚀 About Me
+- 🔭 Currently working on exciting projects
+- 🌱 Always learning and growing
+- 👯 Looking to collaborate on innovative ideas
+- 💬 Ask me about anything tech-related
 
-<h2 align="center">About Me 🚀</h2>
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<p align="center">
-  <samp>
-    I'm a passionate developer from <b>Your Location</b> 🌍<br>
-    Currently working on <a href="https://github.com/yourusername/yourproject">Your Project</a> 🔥<br>
-    5x hackathon winner 🏆<br>
-    Ambassador for <a href="https://yourorganization.com">Your Organization</a> 📢
-  </samp>
-</p>
-
+## 📊 GitHub Stats
 <div align="center">
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website Badge"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<br>
-
-<h2 align="center">Skills & Tools 🛠️</h2>
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-</p>
-
-<h2 align="center">GitHub Stats 📊</h2>
-
+## 🏆 Top Languages
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-<h2 align="center">Hackathons & Awards 🏆</h2>
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_WEBSITE)
 
+---
 <div align="center">
-
-| 🏆 | Hackathon | Award |
-|:---:|:---|:---|
-| 🥇 | Your Hackathon 1 | First Place |
-| 🎨 | Your Hackathon 2 | Best UI/UX |
-| 🚀 | Your Hackathon 3 | Most Innovative Project |
-| 👥 | Your Hackathon 4 | People's Choice Award |
-| 🔧 | Your Hackathon 5 | Best Use of API |
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/yourusername/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" alt="Profile Views" />
 </div>
