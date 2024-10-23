@@ -7,9 +7,9 @@
 
 ```javascript
 const aboutMe = {
-    currentlyWorking: "Building Something Amazing 🚀",
+    currentlyWorking: "Building Webal",
     learning: ["Web3 🌐", "System Design 📐", "Cloud Architecture ☁️"],
-    askMeAbout: ["Web Dev 💻", "Tech 🔧", "Coffee ☕", "Innovations 💡"],
+    askMeAbout: ["Dev 💻", "Tech 🔧", "Coffee ☕", "Innovations 💡"],
     availability: "Open to exciting opportunities! ✨",
     funFact: "I debug with console.log and I'm not ashamed of it 🐛"
 };
