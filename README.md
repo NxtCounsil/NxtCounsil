@@ -1,61 +1,87 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=100&lines=Hey%2C+I'm+Your+Name!;Full-Stack+Developer;Turning+Ideas+into+Reality" alt="Typing SVG" />
-</div>
+import React from 'react'
+import { Card, CardContent } from "@/components/ui/card"
+import { Badge } from "@/components/ui/badge"
+import { ArrowRight, Code, Cpu, Database, Globe, Lightbulb, Rocket } from 'lucide-react'
 
-<p align="center">
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-</p>
+export default function Component() {
+  return (
+    <div className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800 text-white p-8 font-mono">
+      <Card className="max-w-4xl mx-auto bg-black/50 border-gray-700">
+        <CardContent className="p-6">
+          <h1 className="text-4xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-600">
+            Your Name
+          </h1>
+          <p className="text-xl mb-6 text-gray-300">Full-Stack Developer | AI Enthusiast | Open Source Contributor</p>
+          
+          <div className="space-y-6">
+            <section>
+              <h2 className="text-2xl font-semibold mb-3 flex items-center">
+                <Rocket className="mr-2" /> Mission
+              </h2>
+              <p className="text-gray-300">
+                Pushing the boundaries of technology to create innovative solutions that shape the future.
+              </p>
+            </section>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+            <section>
+              <h2 className="text-2xl font-semibold mb-3 flex items-center">
+                <Lightbulb className="mr-2" /> Current Focus
+              </h2>
+              <ul className="list-disc list-inside text-gray-300">
+                <li>Exploring the intersection of AI and web technologies</li>
+                <li>Contributing to open-source projects that make a difference</li>
+                <li>Building scalable and efficient full-stack applications</li>
+              </ul>
+            </section>
 
-## 💫 About Me
+            <section>
+              <h2 className="text-2xl font-semibold mb-3 flex items-center">
+                <Code className="mr-2" /> Tech Arsenal
+              </h2>
+              <div className="flex flex-wrap gap-2">
+                {['JavaScript', 'TypeScript', 'React', 'Node.js', 'Python', 'GraphQL', 'Docker', 'Kubernetes', 'AWS'].map((tech) => (
+                  <Badge key={tech} variant="secondary" className="text-sm py-1 px-2 bg-gray-700 text-gray-200">
+                    {tech}
+                  </Badge>
+                ))}
+              </div>
+            </section>
 
-- 🚀 Full-Stack Developer passionate about creating innovative solutions
-- 🌱 Currently exploring the depths of AI and Machine Learning
-- 💡 Always excited to collaborate on groundbreaking projects
-- 🎯 Goal: To make a positive impact through technology
-- 📫 Reach me at: your.email@example.com
-- ⚡ Fun fact: I can solve a Rubik's cube while skydiving! (Okay, not really, but wouldn't that be cool?)
+            <section>
+              <h2 className="text-2xl font-semibold mb-3 flex items-center">
+                <Globe className="mr-2" /> Let's Connect
+              </h2>
+              <p className="text-gray-300">
+                I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+              </p>
+            </section>
 
-## 🛠️ Tech Stack
+            <section>
+              <h2 className="text-2xl font-semibold mb-3 flex items-center">
+                <Cpu className="mr-2" /> Fun Fact
+              </h2>
+              <p className="text-gray-300">
+                I once debugged a production issue while on a roller coaster. Talk about a wild ride!
+              </p>
+            </section>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</p>
+            <section>
+              <h2 className="text-2xl font-semibold mb-3 flex items-center">
+                <Database className="mr-2" /> Latest Project
+              </h2>
+              <p className="text-gray-300">
+                Currently working on a revolutionary AI-powered code assistant that understands context and developer intent.
+              </p>
+            </section>
+          </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" />
-  </a>
-</div>
-
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="yourusername" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=blueviolet&style=flat" alt="yourusername" />
-</p>
+          <div className="mt-8 text-center">
+            <p className="text-lg text-gray-400 flex items-center justify-center">
+              Explore my repositories <ArrowRight className="ml-2" />
+            </p>
+          </div>
+        </CardContent>
+      </Card>
+    </div>
+  )
+}
