@@ -8,7 +8,7 @@
 ```javascript
 const aboutMe = {
     currentlyWorking: "Building Webal",
-    learning: ["Web3 🌐", "System Design 📐", "Cloud Architecture ☁️"],
+    learning: "Everything in 'Tech Stack' section",
     intrestedIn: ["Tech 🔧", "Coffee ☕", "Innovations 💡"],
     availability: "Open to exciting opportunities! ✨",
     funFact: "I debug with console.log and I'm not ashamed of it 🐛"
